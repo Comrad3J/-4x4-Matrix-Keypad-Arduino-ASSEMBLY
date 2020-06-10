@@ -1,3 +1,3 @@
-# -4x4-Matrix-Keypad-Arduino-ASSEMBLY
+# 4x4-Matrix-Keypad-Arduino-ASSEMBLY
 Program that reads 4 pressed digits off the 4x4 keypad and outputs green or red light.
 Comments and some variables are in SLOVENE language. 
